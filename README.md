@@ -1,2 +1,6 @@
-# Kai-Richardson.github.io2
-My website, now with a backend!
+# Kai-Richardson.github.io
+My personal website to show off what I do! Not much else to it.
+
+Front End Frameworks:
+- [Zepto.js](http://zeptojs.com/)
+- [Particles.js](http://vincentgarreau.com/particles.js/)
